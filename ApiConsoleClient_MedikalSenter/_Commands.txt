@@ -1,0 +1,4 @@
+﻿PM> install-package microsoft.aspnet.webapi.client
+------note----
+'cause this is a console client app, 
+to get data, the api should be already running
